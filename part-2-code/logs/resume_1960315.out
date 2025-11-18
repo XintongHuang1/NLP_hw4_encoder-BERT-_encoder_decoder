@@ -1,0 +1,92 @@
+========================================
+Resuming exp4_lr3e4 Training
+========================================
+Job ID: 1960315
+GPU: 0
+Node: gr068
+Start: Fri Nov 14 12:36:31 AM EST 2025
+
+Python: /home/xh2919/.conda/envs/hw4-part-2-nlp/bin/python
+Conda env: hw4-part-2-nlp
+
+Current best F1: 0.723253
+
+Epoch 0: Average train loss was 3.4089690893481386
+Epoch 0: Dev loss: 0.4019665858385975, Record F1: 0.12575030817609328, Record EM: 0.11587982832618025, SQL EM: 0.0
+Epoch 0: 80.26% of the generated outputs led to SQL errors
+Epoch 1: Average train loss was 1.1992828686848005
+Epoch 1: Dev loss: 0.1761832965231079, Record F1: 0.3281042392148552, Record EM: 0.20386266094420602, SQL EM: 0.0
+Epoch 1: 15.02% of the generated outputs led to SQL errors
+Epoch 2: Average train loss was 1.0045234331304043
+Epoch 2: Dev loss: 0.1238615032118753, Record F1: 0.39716748580264083, Record EM: 0.2875536480686695, SQL EM: 0.004291845493562232
+Epoch 2: 11.80% of the generated outputs led to SQL errors
+Epoch 3: Average train loss was 0.9351341963463596
+Epoch 3: Dev loss: 0.10064503083503655, Record F1: 0.4550022187762966, Record EM: 0.34549356223175964, SQL EM: 0.01072961373390558
+Epoch 3: 13.52% of the generated outputs led to SQL errors
+Epoch 4: Average train loss was 0.8967316444027671
+Epoch 4: Dev loss: 0.08635336140887734, Record F1: 0.5212176714193197, Record EM: 0.40987124463519314, SQL EM: 0.019313304721030045
+Epoch 4: 11.59% of the generated outputs led to SQL errors
+Epoch 5: Average train loss was 0.871151223108123
+Epoch 5: Dev loss: 0.07767198138928563, Record F1: 0.5571536637705667, Record EM: 0.4570815450643777, SQL EM: 0.019313304721030045
+Epoch 5: 15.88% of the generated outputs led to SQL errors
+Epoch 6: Average train loss was 0.8532139823738444
+Epoch 6: Dev loss: 0.07096136147443564, Record F1: 0.5570956448038263, Record EM: 0.4570815450643777, SQL EM: 0.019313304721030045
+Epoch 6: 16.74% of the generated outputs led to SQL errors
+Epoch 7: Average train loss was 0.8390956793145576
+Epoch 7: Dev loss: 0.06631023286865588, Record F1: 0.5897663825324745, Record EM: 0.4871244635193133, SQL EM: 0.019313304721030045
+Epoch 7: 14.38% of the generated outputs led to SQL errors
+Epoch 8: Average train loss was 0.8279471399829131
+Epoch 8: Dev loss: 0.060510123864956675, Record F1: 0.6056767266749582, Record EM: 0.51931330472103, SQL EM: 0.019313304721030045
+Epoch 8: 19.31% of the generated outputs led to SQL errors
+Epoch 9: Average train loss was 0.8186678590296805
+Epoch 9: Dev loss: 0.058241423186678326, Record F1: 0.6293774425510794, Record EM: 0.5643776824034334, SQL EM: 0.019313304721030045
+Epoch 9: 17.38% of the generated outputs led to SQL errors
+Epoch 10: Average train loss was 0.8119598060473183
+Epoch 10: Dev loss: 0.0562842968711219, Record F1: 0.6322914527165961, Record EM: 0.5600858369098712, SQL EM: 0.019313304721030045
+Epoch 10: 14.59% of the generated outputs led to SQL errors
+Epoch 11: Average train loss was 0.8051520182716931
+Epoch 11: Dev loss: 0.05428770076569811, Record F1: 0.6510990600543313, Record EM: 0.592274678111588, SQL EM: 0.02145922746781116
+Epoch 11: 18.88% of the generated outputs led to SQL errors
+Epoch 12: Average train loss was 0.7993999591587744
+Epoch 12: Dev loss: 0.05220736051590498, Record F1: 0.6830459661636867, Record EM: 0.6223175965665236, SQL EM: 0.019313304721030045
+Epoch 12: 16.74% of the generated outputs led to SQL errors
+Epoch 13: Average train loss was 0.7946572460550402
+Epoch 13: Dev loss: 0.051058478894710636, Record F1: 0.6900223924335455, Record EM: 0.6437768240343348, SQL EM: 0.02145922746781116
+Epoch 13: 18.67% of the generated outputs led to SQL errors
+Epoch 14: Average train loss was 0.7907072121756866
+Epoch 14: Dev loss: 0.04952458759381534, Record F1: 0.6917700537112778, Record EM: 0.6587982832618026, SQL EM: 0.0
+Epoch 14: 18.67% of the generated outputs led to SQL errors
+Epoch 15: Average train loss was 0.7868706252237986
+Epoch 15: Dev loss: 0.048461466768279046, Record F1: 0.6928859339012585, Record EM: 0.6523605150214592, SQL EM: 0.019313304721030045
+Epoch 15: 18.24% of the generated outputs led to SQL errors
+Epoch 16: Average train loss was 0.7848420246503711
+Epoch 16: Dev loss: 0.0483710466064701, Record F1: 0.7132078438647463, Record EM: 0.6781115879828327, SQL EM: 0.019313304721030045
+Epoch 16: 18.03% of the generated outputs led to SQL errors
+Epoch 17: Average train loss was 0.7810809897144314
+Epoch 17: Dev loss: 0.04697793945338321, Record F1: 0.7209643898447224, Record EM: 0.6888412017167382, SQL EM: 0.019313304721030045
+Epoch 17: 17.60% of the generated outputs led to SQL errors
+Epoch 18: Average train loss was 0.7780625316552685
+Epoch 18: Dev loss: 0.047028231167137294, Record F1: 0.7054524373608136, Record EM: 0.6909871244635193, SQL EM: 0.023605150214592276
+Epoch 18: 21.24% of the generated outputs led to SQL errors
+Epoch 19: Average train loss was 0.7755982401318825
+Epoch 19: Dev loss: 0.045459130434071945, Record F1: 0.7006140665194548, Record EM: 0.6845493562231759, SQL EM: 0.019313304721030045
+Epoch 19: 19.10% of the generated outputs led to SQL errors
+Epoch 20: Average train loss was 0.7733280077380005
+Epoch 20: Dev loss: 0.045058541252570194, Record F1: 0.709000830765669, Record EM: 0.6909871244635193, SQL EM: 0.023605150214592276
+Epoch 20: 19.10% of the generated outputs led to SQL errors
+Epoch 21: Average train loss was 0.7713794573961582
+Epoch 21: Dev loss: 0.045275717396266575, Record F1: 0.7095315514715144, Record EM: 0.6866952789699571, SQL EM: 0.02145922746781116
+Epoch 21: 19.96% of the generated outputs led to SQL errors
+Epoch 22: Average train loss was 0.7695497642735012
+Epoch 22: Dev loss: 0.04554750555977852, Record F1: 0.7206828035389525, Record EM: 0.703862660944206, SQL EM: 0.02145922746781116
+Epoch 22: 18.67% of the generated outputs led to SQL errors
+Dev set results: Loss: 0.04697793945338321, Record F1: 0.7209643898447224, Record EM: 0.6888412017167382, SQL EM: 0.019313304721030045
+Dev set results: 17.60% of the generated outputs led to SQL errors
+Saved 432 generated queries to results/t5_ft_ft_experiment_test.sql
+Saved associated records to records/t5_ft_ft_experiment_test.pkl
+
+Previous best F1: 0.7233
+Current F1: 0.7210
+
+❌ No improvement. Previous best F1: 0.7233, Current: 0.7210
+Keeping previous submission files unchanged.

@@ -1,0 +1,9 @@
+Best Model Info
+==================================================
+Experiment: exp4_lr3e4
+Checkpoint: checkpoints/ft_experiments/exp4_lr3e4
+Model Type: finetuned
+Dev Record F1: 0.7233
+Dev Record EM: 0.6974
+Dev SQL EM: 0.0215
+Error Rate: 20.17%

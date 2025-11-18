@@ -1,0 +1,90 @@
+========================================
+T5 Fine-tuning - Multi Experiments
+========================================
+Job ID: 1924402
+GPU: 0
+Node: gr014
+Start: Thu Nov 13 11:29:55 AM EST 2025
+
+Python: /home/xh2919/.conda/envs/hw4-part-2-nlp/bin/python
+Conda env: hw4-part-2-nlp
+
+========================================
+Experiment 1: LR=3e-4, 50 epochs
+========================================
+Epoch 0: Average train loss was 3.4322727337062298
+Epoch 0: Dev loss: 0.40333705810408177, Record F1: 0.13557141206499132, Record EM: 0.12446351931330472, SQL EM: 0.0
+Epoch 0: 77.25% of the generated outputs led to SQL errors
+Epoch 1: Average train loss was 1.2026538404126133
+Epoch 1: Dev loss: 0.17682791455838218, Record F1: 0.31797010895817673, Record EM: 0.20386266094420602, SQL EM: 0.0
+Epoch 1: 15.24% of the generated outputs led to SQL errors
+Epoch 2: Average train loss was 1.0070080578883183
+Epoch 2: Dev loss: 0.12326957695079703, Record F1: 0.3386332844484073, Record EM: 0.2510729613733906, SQL EM: 0.006437768240343348
+Epoch 2: 18.67% of the generated outputs led to SQL errors
+Epoch 3: Average train loss was 0.9366770768192613
+Epoch 3: Dev loss: 0.10016766254731237, Record F1: 0.456091966981082, Record EM: 0.34549356223175964, SQL EM: 0.012875536480686695
+Epoch 3: 12.88% of the generated outputs led to SQL errors
+Epoch 4: Average train loss was 0.8985146157312935
+Epoch 4: Dev loss: 0.08803695962308741, Record F1: 0.5113007247070652, Record EM: 0.40987124463519314, SQL EM: 0.019313304721030045
+Epoch 4: 12.45% of the generated outputs led to SQL errors
+Epoch 5: Average train loss was 0.8728785052762645
+Epoch 5: Dev loss: 0.07781490843610779, Record F1: 0.5615993843968147, Record EM: 0.4570815450643777, SQL EM: 0.019313304721030045
+Epoch 5: 16.09% of the generated outputs led to SQL errors
+Epoch 6: Average train loss was 0.8546397567170994
+Epoch 6: Dev loss: 0.07177259681609986, Record F1: 0.5644458227516491, Record EM: 0.4613733905579399, SQL EM: 0.019313304721030045
+Epoch 6: 17.81% of the generated outputs led to SQL errors
+Epoch 7: Average train loss was 0.8408318956443795
+Epoch 7: Dev loss: 0.06563618827832299, Record F1: 0.6019069523523707, Record EM: 0.5021459227467812, SQL EM: 0.019313304721030045
+Epoch 7: 15.02% of the generated outputs led to SQL errors
+Epoch 8: Average train loss was 0.8295754740752538
+Epoch 8: Dev loss: 0.06227827097184372, Record F1: 0.608140208020421, Record EM: 0.5214592274678111, SQL EM: 0.019313304721030045
+Epoch 8: 15.88% of the generated outputs led to SQL errors
+Epoch 9: Average train loss was 0.8201631517426862
+Epoch 9: Dev loss: 0.0596817580645005, Record F1: 0.617665711366611, Record EM: 0.5536480686695279, SQL EM: 0.019313304721030045
+Epoch 9: 22.53% of the generated outputs led to SQL errors
+Epoch 10: Average train loss was 0.8124760149800662
+Epoch 10: Dev loss: 0.056365426425584106, Record F1: 0.6436110334783949, Record EM: 0.5708154506437768, SQL EM: 0.02145922746781116
+Epoch 10: 16.09% of the generated outputs led to SQL errors
+Epoch 11: Average train loss was 0.8063074466112465
+Epoch 11: Dev loss: 0.053888001721406696, Record F1: 0.6575923110624753, Record EM: 0.6008583690987125, SQL EM: 0.02145922746781116
+Epoch 11: 16.95% of the generated outputs led to SQL errors
+Epoch 12: Average train loss was 0.8008915778090492
+Epoch 12: Dev loss: 0.05197492087694211, Record F1: 0.6578820476566855, Record EM: 0.6051502145922747, SQL EM: 0.015021459227467811
+Epoch 12: 18.88% of the generated outputs led to SQL errors
+Epoch 13: Average train loss was 0.7955346973522338
+Epoch 13: Dev loss: 0.05066282914427238, Record F1: 0.6970554200237997, Record EM: 0.6437768240343348, SQL EM: 0.023605150214592276
+Epoch 13: 17.81% of the generated outputs led to SQL errors
+Epoch 14: Average train loss was 0.7915836979351888
+Epoch 14: Dev loss: 0.05076507496338182, Record F1: 0.6984073084328289, Record EM: 0.6502145922746781, SQL EM: 0.019313304721030045
+Epoch 14: 15.67% of the generated outputs led to SQL errors
+Epoch 15: Average train loss was 0.7874364368272385
+Epoch 15: Dev loss: 0.04857098263653358, Record F1: 0.7036562404167123, Record EM: 0.6630901287553648, SQL EM: 0.019313304721030045
+Epoch 15: 18.45% of the generated outputs led to SQL errors
+Epoch 16: Average train loss was 0.7840440160555817
+Epoch 16: Dev loss: 0.04838905846047727, Record F1: 0.6879101186074276, Record EM: 0.6587982832618026, SQL EM: 0.019313304721030045
+Epoch 16: 22.32% of the generated outputs led to SQL errors
+Epoch 17: Average train loss was 0.7811714905539892
+Epoch 17: Dev loss: 0.04765791974891987, Record F1: 0.7008659638315571, Record EM: 0.6738197424892703, SQL EM: 0.019313304721030045
+Epoch 17: 19.53% of the generated outputs led to SQL errors
+Epoch 18: Average train loss was 0.7785215416446188
+Epoch 18: Dev loss: 0.04796789505516483, Record F1: 0.6985012192107435, Record EM: 0.6716738197424893, SQL EM: 0.019313304721030045
+Epoch 18: 19.31% of the generated outputs led to SQL errors
+Epoch 19: Average train loss was 0.7764421227484269
+Epoch 19: Dev loss: 0.047011061310098454, Record F1: 0.7027706238031094, Record EM: 0.6824034334763949, SQL EM: 0.023605150214592276
+Epoch 19: 20.17% of the generated outputs led to SQL errors
+Epoch 20: Average train loss was 0.7741342140429113
+Epoch 20: Dev loss: 0.0458249373232325, Record F1: 0.7202995292976381, Record EM: 0.7017167381974249, SQL EM: 0.02145922746781116
+Epoch 20: 18.45% of the generated outputs led to SQL errors
+Epoch 21: Average train loss was 0.7716837540346146
+Epoch 21: Dev loss: 0.04623869523268761, Record F1: 0.7232525909839614, Record EM: 0.6974248927038627, SQL EM: 0.02145922746781116
+Epoch 21: 20.17% of the generated outputs led to SQL errors
+Epoch 22: Average train loss was 0.7701850703280955
+Epoch 22: Dev loss: 0.04570191630459192, Record F1: 0.7025686221624525, Record EM: 0.6824034334763949, SQL EM: 0.02145922746781116
+Epoch 22: 20.82% of the generated outputs led to SQL errors
+Epoch 23: Average train loss was 0.7700233661935915
+Epoch 23: Dev loss: 0.04571790067203399, Record F1: 0.7144624609935345, Record EM: 0.6931330472103004, SQL EM: 0.02145922746781116
+Epoch 23: 19.53% of the generated outputs led to SQL errors
+Epoch 24: Average train loss was 0.7668876315774327
+Epoch 24: Dev loss: 0.045767569355104155, Record F1: 0.7188372918118683, Record EM: 0.6995708154506438, SQL EM: 0.023605150214592276
+Epoch 24: 20.60% of the generated outputs led to SQL errors
+Epoch 25: Average train loss was 0.7653907256369994
